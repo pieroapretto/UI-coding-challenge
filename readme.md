@@ -13,4 +13,4 @@ Acceptance Criteria
 * Site should be written using semantic HTML5.
 * Links and buttons should hover effects.
 * Do not use any UI frameworks or libraries to assist with styling.
-* BONUS: Achieve a 90+ accessibility score on Lighthouse
+* BONUS: Achieve a 100 accessibility score on Lighthouse
